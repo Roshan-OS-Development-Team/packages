@@ -8,6 +8,7 @@
         "main_app_class": "WebOrbit",
         "taskbar_btn": true,
         "startmenu_btn": true,
+        "main_app_icon": "WebOrbit.png",
         "download_link": "https://raw.githubusercontent.com/Roshan-OS-Development-Team/packages/main/WebOrbit.zip"
     }
 }
