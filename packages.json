@@ -4,6 +4,7 @@
         "description": "WebOrbit Game for Roshan OS, web version made by ssdcat",
         "author": "ssdcat | Roshan",
         "version": "1.4.7",
+        "main_app_file": "weborbit.py",
         "download_link": "https://raw.githubusercontent.com/Roshan-OS-Development-Team/packages/main/WebOrbit.zip"
     }
 }
