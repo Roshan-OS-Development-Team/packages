@@ -11,6 +11,6 @@ class WebOrbit(core.WebWindow):
             master,
             "WebOrbit",
             size=(1200, 800),
-            icon=os.path.join(__file__, "WebOrbit.png"),
+            icon="packages/WebOrbit/WebOrbit.png",
         )
         self.webview.load("https://sorabora.github.io/weborbit/")
