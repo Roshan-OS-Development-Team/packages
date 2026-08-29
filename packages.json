@@ -5,6 +5,9 @@
         "author": "ssdcat | Roshan",
         "version": "1.4.7",
         "main_app_file": "weborbit.py",
+        "main_app_class": "WebOrbit",
+        "taskbar_btn": true,
+        "startmenu_btn": true,
         "download_link": "https://raw.githubusercontent.com/Roshan-OS-Development-Team/packages/main/WebOrbit.zip"
     }
 }
