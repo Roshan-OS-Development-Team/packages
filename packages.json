@@ -3,7 +3,7 @@
         "type": "App",
         "description": "WebOrbit Game for Roshan OS, web version made by ssdcat",
         "author": "ssdcat | Roshan",
-        "version": "1.4.7",
+        "version": "1.6.1",
         "main_app_file": "weborbit.py",
         "main_app_class": "WebOrbit",
         "taskbar_btn": true,
